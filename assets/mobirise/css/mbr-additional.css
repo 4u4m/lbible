@@ -1230,88 +1230,9 @@ body {
 .cid-qFRvQWFN0I .icons-menu .mbr-iconfont:hover {
   color: #c1c1c1 !important;
 }
-.cid-qFRNbWLSDp {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qFRNbWLSDp .mbr-section-title {
-  font-weight: bold;
-  color: #232323;
-  margin-bottom: 2.5rem;
-}
-.cid-qFRNbWLSDp .mbr-section-subtitle {
-  font-weight: 500;
-  margin-bottom: 2rem;
-}
-.cid-qFRNbWLSDp .mbr-element-title {
-  margin-bottom: 1rem;
-}
-.cid-qFRNbWLSDp .card-img {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-.cid-qFRNbWLSDp .card-img span {
-  font-size: 80px;
-}
-.cid-qFRNbWLSDp .nav {
-  border: none;
-  margin-bottom: 3rem;
-}
-.cid-qFRNbWLSDp .nav-tabs {
-  margin-top: 1rem;
-  margin-bottom: 2rem;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-qFRNbWLSDp .tabcont {
-  z-index: 1;
-  margin: 0;
-}
-.cid-qFRNbWLSDp .nav-item {
-  margin-top: 1rem;
-}
-.cid-qFRNbWLSDp .tab-content-row {
-  width: 100%;
-  justify-content: center;
-  margin: 0;
-}
-.cid-qFRNbWLSDp .tab-content {
-  width: 100%;
-}
-.cid-qFRNbWLSDp .tab-elem {
-  flex-basis: auto !important;
-}
-.cid-qFRNbWLSDp .nav-tabs .nav-link {
-  box-sizing: border-box;
-  font-style: normal;
-  font-weight: bold;
-  padding: 1rem 1rem;
-  margin: 0px;
-  margin-left: -0.5px;
-  margin-right: -0.5px;
-  transition: all .5s;
-  border-bottom-left-radius: 0px !important;
-  border-bottom-right-radius: 0px !important;
-  border-top-left-radius: 5px !important;
-  border-top-right-radius: 5px !important;
-  border-bottom: 1px solid #767676;
-}
-.cid-qFRNbWLSDp .nav-tabs .nav-link:hover {
-  border-color: transparent;
-  border-bottom: 1px solid #767676;
-}
-.cid-qFRNbWLSDp .nav-tabs .nav-link.active {
-  border: 1px solid #767676;
-  border-bottom: none;
-  font-style: normal;
-  background-color: transparent;
-}
 .cid-qJEDeVaJfG {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #f7f7f7;
 }
 .cid-qJEDeVaJfG .row {
